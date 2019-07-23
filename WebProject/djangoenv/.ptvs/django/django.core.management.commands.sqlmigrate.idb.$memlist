@@ -1,0 +1,14 @@
+AmbiguityError
+MigrationExecutor
+CommandError
+apps
+__spec__
+__file__
+DEFAULT_DB_ALIAS
+__name__
+connections
+BaseCommand
+__builtins__
+__cached__
+Command
+__package__

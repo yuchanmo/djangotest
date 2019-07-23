@@ -1,0 +1,17 @@
+schema
+RemovedInDjango30Warning
+creation
+features
+client
+__builtins__
+__file__
+__package__
+__path__
+base
+utils
+warnings
+__name__
+introspection
+operations
+__cached__
+__spec__

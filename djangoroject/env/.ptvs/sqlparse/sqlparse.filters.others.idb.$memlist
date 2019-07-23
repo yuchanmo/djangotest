@@ -1,0 +1,13 @@
+split_unquoted_newlines
+T
+sql
+__spec__
+__file__
+__name__
+StripCommentsFilter
+StripWhitespaceFilter
+__builtins__
+__cached__
+SpacesAroundOperatorsFilter
+SerializerUnicode
+__package__

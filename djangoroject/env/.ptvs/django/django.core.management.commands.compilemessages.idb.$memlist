@@ -1,0 +1,17 @@
+codecs
+BaseCommand
+find_command
+CommandError
+__builtins__
+has_bom
+__file__
+__package__
+__cached__
+popen_wrapper
+glob
+Command
+os
+__name__
+concurrent
+is_writable
+__spec__

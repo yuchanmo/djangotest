@@ -1,0 +1,15 @@
+TEST_DATABASE_PREFIX
+BaseDatabaseCreation
+apps
+os
+__spec__
+__file__
+router
+settings
+__name__
+serializers
+StringIO
+__builtins__
+__cached__
+sys
+__package__

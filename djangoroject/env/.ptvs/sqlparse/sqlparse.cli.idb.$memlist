@@ -1,0 +1,17 @@
+sys
+sqlparse
+PY2
+create_parser
+TextIOWrapper
+__name__
+open
+__builtins__
+getreader
+__file__
+__cached__
+SQLParseError
+_error
+argparse
+main
+__package__
+__spec__

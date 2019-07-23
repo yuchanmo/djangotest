@@ -1,0 +1,11 @@
+namedtuple
+is_referenced_by_foreign_key
+__spec__
+__file__
+__name__
+field_references_model
+RECURSIVE_RELATIONSHIP_CONSTANT
+__builtins__
+__cached__
+ModelTuple
+__package__

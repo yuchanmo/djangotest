@@ -1,0 +1,15 @@
+KEYWORDS
+KEYWORDS_ORACLE
+tokens
+__spec__
+__file__
+SQL_REGEX
+KEYWORDS_COMMON
+__name__
+is_keyword
+FLAGS
+__builtins__
+__cached__
+KEYWORDS_PLPGSQL
+re
+__package__

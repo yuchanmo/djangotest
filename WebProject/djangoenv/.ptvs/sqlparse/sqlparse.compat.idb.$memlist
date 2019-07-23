@@ -1,0 +1,15 @@
+PY2
+file_types
+string_types
+PY3
+__spec__
+__file__
+unicode_compatible
+TextIOBase
+__name__
+StringIO
+text_type
+__builtins__
+__cached__
+sys
+__package__
